@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/") #Decorador
 def index():
-    return "Hello Jose!"
+    return "Hello Jose!, Bueno mundo"
 
 @app.route("/hola") #Urls
 def hola():
