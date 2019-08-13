@@ -2,3 +2,11 @@
 Aprender Git - Flask
 
 Lean HISTORIA antes que otro doc
+
+
+**Modificando el readme**
+
+_PORQUE SOMOS PROGRAMADORES__
+
+
+

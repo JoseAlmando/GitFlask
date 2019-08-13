@@ -1,1 +1,4 @@
 flask
+
+
+Debes tener cuidado al unir cambios con otra persona
