@@ -5,3 +5,6 @@ Tengo 17 a;os.
 Me compre un juguete nuevo.
 Fui al campo tres veces.
 
+Amo el cafe.
+
+No todos los datos son ciertos.
