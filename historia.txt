@@ -8,3 +8,5 @@ Fui al campo tres veces.
 Amo el cafe.
 
 No todos los datos son ciertos.
+
+Me enfoque mas a GIT que a python
