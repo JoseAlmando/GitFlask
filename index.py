@@ -32,4 +32,4 @@ if __name__ == "__main__":
     app.run(debug=True, port=5000) #!debug, para detectar cambios y reiniciar server
                         #port, para el puerto
 
-#No debo hacer nada despues de esto
+#No debo hacer nada despues de esto, ok
