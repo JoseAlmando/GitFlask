@@ -21,3 +21,6 @@ Podemos cambiar de rama con **git checkout**
 Podemos fucionar ramas y solucionar errores.
 
 **git show** es para ver cambios
+
+Para agregar un repositorio remoto utilizamos
+**git remote add origin [url]**
