@@ -15,3 +15,9 @@ Con **git config** podemos configurar nuestro entorno git y ver nuestra configur
 
 **git status**, es para ver el estatus de nuestros archivos.
 Como ver si esta agregado a nuestro repositorio. Si se ha modificado, borrado, entre otras cosas.
+
+
+Podemos cambiar de rama con **git checkout**
+Podemos fucionar ramas y solucionar errores.
+
+**git show** es para ver cambios
