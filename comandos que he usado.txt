@@ -1,7 +1,0 @@
-git config
-git commit
-git add
-git status
-git log
-
-otros
