@@ -45,3 +45,12 @@ Antes de hacer commit o push, hacer pull
 
 Podemos cambiar de ramas con **git checkout [rama]**
 Las llaves publicas y privadas son importantes 
+
+Para crear un tag
+**git tag -a ["nombre del tag"] -m ["descripcion del tag"] [commit]**
+Con esto podemos dividir nuestro proyecto como en versiones, asi estamos claros de que hicimos
+hasta ese commit
+
+**git tag**, es para ver los tag que tenemos hecho
+
+**git show-ref --tags** para ver a  que commit esta unido o asignado ese tag
