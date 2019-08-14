@@ -21,18 +21,18 @@ Podemos cambiar de rama con **git checkout**
 Podemos fucionar ramas y solucionar errores.
 
 **git show** es para ver cambios
-
+//////////
 Para agregar un repositorio remoto utilizamos
 **git remote add origin [url]**
 
 Paso 1: creamos nuestras llaves
 Comando para crear la llave
-ssh-keygen -t rsa -b 4096 -C "correo"
+ssh-keygen -t rsa -b 4096 -C [correo]
 
 Paso 2: Confirmar si el servidor de llaves esta corriendo 
 Comando: eval $(ssh-agent -s)
 
-Paso 3: agregar llave al entorno de windows o linux
+Paso 3: agregar llave privada al entorno de windows o linux
 ssh-add ~/.ssh/id_rsa
 
 OJO: Cada usuario, cada computadora debe tener una llave publica y privada
@@ -41,3 +41,7 @@ Paso 4: agregar a gitHub
 Paso 5: cambiar url dentro de muestro repositorio
 Comando: git remote set-url origin [url]
 Antes de hacer commit o push, hacer pull
+//////////
+
+Podemos cambiar de ramas con **git checkout [rama]**
+Las llaves publicas y privadas son importantes 
