@@ -54,3 +54,11 @@ hasta ese commit
 **git tag**, es para ver los tag que tenemos hecho
 
 **git show-ref --tags** para ver a  que commit esta unido o asignado ese tag
+
+**git push origin --tags" para enviar nuestros tags a nuestro repositorio.
+
+Eliminar tags
+**git tag -d ["nombre del tag"]**
+Hacer pull
+Push de los tags
+git push origin :refs/tags/["nombre del tag"] borrar tags del origen
