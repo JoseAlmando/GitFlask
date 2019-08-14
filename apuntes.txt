@@ -1,0 +1,17 @@
+Iniciamos nuestro repositorio con **git init**
+Para agregar archivos a nuestra rama utilizamos **git add** , esta puede
+estar acompa;ado del nombre del archivo que queramos agregar o de un punto para agregar todo
+
+Lo que hemos hecho hasta ahora esta en nuestra area de trabajo, pues con **git commit** lo enviamos 
+a nuestro repositorio local y le agregamos algun mensaje.
+
+Con **git log** podemos ver los commit hechos
+Con **git diff** ver los cambios efectuados entre dos commit
+Con **git reset commit --hard** podemos volver completamente a una version anterior de nuestro proyecto.
+Con **git reset commit --(se me olvido este otro parametro)** pero es para volver a algo especifico de una version.
+Un cambio mas leve ya que no borra todos los cambio.
+Con **git checkout commit archivo**, volvemos al estado anterior  de algun archivo.
+Con **git config** podemos configurar nuestro entorno git y ver nuestra configuracion
+
+**git status**, es para ver el estatus de nuestros archivos.
+Como ver si esta agregado a nuestro repositorio. Si se ha modificado, borrado, entre otras cosas.
