@@ -62,3 +62,18 @@ Eliminar tags
 Hacer pull
 Push de los tags
 git push origin :refs/tags/["nombre del tag"] borrar tags del origen
+
+*******************************
+**Stajing develop**, es el servidor de prueba
+aca siempre deben estar los datos acrualizados 
+al igual que la rama master donde ya van los 
+cambios a produccion
+
+*******************************
+**PULL REQUEST** (caracteristica de GitHub)
+Los lideres de equipo o los DevOps son los
+que hacen pull REQUEST
+
+**fix-typo** es la rama para arreglar herrores
+de la rama master.
+
