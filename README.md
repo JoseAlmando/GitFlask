@@ -11,5 +11,5 @@ _PORQUE SOMOS PROGRAMADORES__
 Gracias por tu ayuda. 
 
 ```css
-#**La vida es bella** <3 
+# La vida es bella <3 
 ```
