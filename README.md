@@ -14,7 +14,7 @@ Gracias por tu ayuda.
 # La vida es bella <3 
 ```
 > Si puedes imaginarlo. Puedes programarlo. 
-    > "Alejandro Taboada.
+     "Alejandro Taboada.
+
 > Nunca PARES de aprender.
-    > Platzi.
-    
+     Platzi.
