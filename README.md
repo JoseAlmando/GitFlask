@@ -13,8 +13,5 @@ Gracias por tu ayuda.
 ```css
 # La vida es bella <3 
 ```
-> Si puedes imaginarlo. Puedes programarlo. 
-     "Alejandro Taboada.
+> "Si puedes imaginarlo. Puedes programarlo." 
 
-> Nunca PARES de aprender.
-     Platzi.
